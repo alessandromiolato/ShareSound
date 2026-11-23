@@ -1,0 +1,22 @@
+# Build Maven / IDE
+target/
+*.class
+*.iml
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+.mvn/wrapper/maven-wrapper.jar
+
+# macOS
+.DS_Store
+
+# Dati locali e sensibili
+*.db
+*.sqlite
+*.log
+hs_err_pid*.log
+*.csv
+.env
+application.properties
